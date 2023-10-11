@@ -29,6 +29,11 @@ create the model for the program , in this experiment we create to networks , on
 
 ## PROGRAM
 ~~~
+NAME:V.A.JITHENDRA
+REG.NO:212221230043
+
+~~~
+~~~
 from tensorflow import keras
 from tensorflow.keras import layers
 from tensorflow.keras import utils
@@ -108,7 +113,7 @@ plt.show()
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-![image](https://github.com/jithendra2004/convolutional-denoising-autoencoder/assets/94226297/81ed3b36-2ed4-4248-b2b3-3273bd2bfa6e)
+![image](https://github.com/jithendra2004/convolutional-denoising-autoencoder/assets/94226297/67b298ee-ba05-49f1-b62f-0fdbcb3d14b4)
 
 
 ### Original vs Noisy Vs Reconstructed Image
